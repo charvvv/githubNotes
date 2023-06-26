@@ -1,4 +1,4 @@
-GitHub Workflow
+GitHub Workflow Notes
 Create a repository:
 
 Start by creating a new repository on GitHub. Specify a name, description, and choose public or private visibility.
